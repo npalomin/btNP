@@ -13,4 +13,3 @@ output:
     toc: yes
     toc_depth: '3'
     number_sections: yes
-  css: palatino.css
